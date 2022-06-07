@@ -1,13 +1,13 @@
 //=============『 Utama 』================== //
 global.owner = ['6285876810596'] 
 global.mods = [] 
-global.prems = [] 
+global.prems = ['6285876810596'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Rizki Muhammad Adam'
 global.numberowner = '6285876810596'
 global.instagram = 'https://instagram.com/rizzkymaa'
-global.github = 'https://github.com/Hyzerr'
+global.github = 'https://github.com/MasRiizzz'
 global.dana = '6285876810596'
 global.pulsa = '6285876810596'
 global.gopay = '6285876810596'
@@ -16,7 +16,7 @@ global.gopay = '6285876810596'
 global.namebot = 'ShiroBot-Md'
 global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
 global.web = 'https://github.com/MasRiizz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.price1 = 'PERMANEN+OWNER = 30.000\n4 BULAN = 25.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
@@ -31,11 +31,11 @@ global.htki = '––––––『'
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_*tunggu sedang di proses...*_'
-global.eror = '_*Server Error*_'
+global.wait = '_*❗Tunggu sedang di proses...*_'
+global.eror = '_*❎Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = 'Stiker sedang dibuat'
+global.stiker_wait = 'Loading, Stiker sedang dibuat!'
 global.packname = '2022'
 global.author = '© Rizki Muhammad Adam'
 
